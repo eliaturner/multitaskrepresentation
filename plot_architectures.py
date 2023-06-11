@@ -1,5 +1,5 @@
 from analysis.tasks_pca import TasksPCA
-from data.functions import *
+from data.functions import X2, X2Rotate
 from data.data_config import *
 from data.data_generator import FamilyOfTasksGenerator
 from model.model_wrapper import ModelWrapper
